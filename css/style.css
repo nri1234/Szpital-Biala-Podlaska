@@ -1498,3 +1498,5 @@ html body.contrast-black h1, html body.contrast-black li, html body.contrast-bla
 .home { color: white !important; }
 
 @media (max-width: 1280px) { .card-text { font-size: 10px; } }
+
+@media (width: 1024px) { .navbar-expand-lg { width: 60%; } }
