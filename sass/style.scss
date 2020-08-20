@@ -16,10 +16,10 @@ body {
   margin:0;
   padding: 0;
   height: 100%;
-  /*    font-family: Roboto;*/
+  font-family: Roboto;
   font-size:14px;
-  font-family: Ubuntu, Roboto, sans-serif;
   background:#f1f1f1;
+  color:  #262626;
 }
 
 input[type=number]::-webkit-outer-spin-button,
@@ -2402,7 +2402,7 @@ input[type=number]::-webkit-outer-spin-button {
   z-index: 10003 !important;
 }
 .footer-info {
-  background: cadetblue;
+  background:#008080;
   padding: 5% 0 1% 0;
 }
 .footer-logo {
@@ -2414,7 +2414,7 @@ input[type=number]::-webkit-outer-spin-button {
   margin-right: 5px;
 }
 .footer-address {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .footer-item {
   color: #ffffff;
@@ -2731,12 +2731,12 @@ input[type=number]::-webkit-outer-spin-button {
 .custom-btn:focus,
 .custom-btn.active {
   color: white;
-  background: cadetblue;
+  background: #008080;
   transition: all 0.4s;
 }
 .custom-btn-card {
   border-radius: 0;
-  border: 2px solid cadetblue;
+  border: 2px solid #008080;
   background: none;
   font-size: 14px;
   padding: 10px;
@@ -2750,7 +2750,7 @@ input[type=number]::-webkit-outer-spin-button {
 .custom-btn-card:focus,
 .custom-btn-card.active {
   color: white;
-  background: cadetblue;
+  background: #008080;
   transition: all 0.4s;
 }
 .transp-btn {
@@ -2854,7 +2854,7 @@ input[type=number]::-webkit-outer-spin-button {
   color: #ffffff !important;
 }
 .first-navbar-block {
-  background: cadetblue;
+  background: #008080;
   color: #8f8785;
   border-radius: 0;
 }
@@ -2902,11 +2902,11 @@ input[type=number]::-webkit-outer-spin-button {
   display: inline-block;
   font-size: 15px;
   font-weight: 500;
-  color: black;
+  color: #262626;
   padding: 6px 13px 6px 5px;
 }
 .dark-menu-item a {
-  color: black;
+  color: #262626;
 }
 .dark-menu-item a:hover,
 .dark-menu-item a:focus {
@@ -2940,7 +2940,7 @@ input[type=number]::-webkit-outer-spin-button {
 }
 .top-logo {
   width: 40%;
-  margin-left: 20px;
+  margin-left: -20px;
 }
 .header-img-div {
   height: 320px;
@@ -3485,7 +3485,7 @@ ul {
     padding-right: 0px !important;
   }
   .footer-address {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
   .news-item-descr {
     color: #989898;
@@ -3923,7 +3923,7 @@ html body.contrast-black a{
   color: #1b1b1b!important;
 }
 .nav-link{
-  color: #212121 !important;
+  color: #262626!important;
   font-weight: 500;
   transition: all 200ms linear;
 }
@@ -3983,7 +3983,7 @@ html body.contrast-black a{
   height: 70px;
   width: 70px;
 }
- .icon-bar {
+.icon-bar {
   background-color: #676767;
   width: 30px;
 }
