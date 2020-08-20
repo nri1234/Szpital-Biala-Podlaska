@@ -1,1 +1,0 @@
-# Szpital-Biala-Podlaska
